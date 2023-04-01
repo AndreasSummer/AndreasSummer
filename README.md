@@ -7,7 +7,7 @@ Software Developer for an ERP Solution<br>🚴‍♂️🏃🏔️<br>.net and o
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=msg2short)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=MsgToShort)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
